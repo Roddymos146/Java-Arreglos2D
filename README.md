@@ -5,7 +5,7 @@ Los programas fueron desarrollados en **IntelliJ IDEA**, pero también pueden ej
 
 ---
 
-## 📌 Programa 1: Búsqueda en Arreglo Multidimensional
+##  Programa 1: Búsqueda en Arreglo Multidimensional
 **Archivo:** `Programa1_Busqueda2D.java`
 
 - Declara una matriz 3×3 de enteros.  
@@ -20,7 +20,7 @@ El valor 9 se encontró en la posición: [1, 2]
 
 ---
 
-## 📌 Programa 2: Ordenación de Arreglo Multidimensional
+##  Programa 2: Ordenación de Arreglo Multidimensional
 **Archivo:** `Programa2_Ordenacion2D.java`
 
 - Declara una matriz 3×3 de enteros.  
@@ -42,14 +42,14 @@ Matriz después de ordenar la fila 1:
 
 ---
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 - Java (JDK 8+)
 - IntelliJ IDEA / NetBeans / Eclipse
 - Git y GitHub
 
 ---
 
-## 🔄 Sincronización en GitHub
+##  Sincronización en GitHub
 1. Inicializar repositorio:
    ```bash
    git init
@@ -68,6 +68,5 @@ Matriz después de ordenar la fila 1:
 
 ---
 
-## ✨ Autor
-- **Tu Nombre**  
-  Proyecto para la materia de **Programación en Java**
+##  Autor
+- **Roddy** 
